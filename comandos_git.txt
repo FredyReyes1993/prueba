@@ -15,3 +15,7 @@ $git merge nombredelaramadondetrabajo --> Une las dos ramas por ejemplo estando 
 					ingreso el comando marge uno la rama en la que trabajo	
 					al master
 
+$git remote add origin larutadelrepositorioengithub --> este comando sirve para lograr la comunicacion	
+							del git local con el github remoto
+
+
