@@ -10,3 +10,8 @@ $git branch nombredelarama --> crea una rama
 $git branch --list --> muestra las ramas creadas
 
 $git checkout nombredelarama --> ingresamos a la rama creada
+
+$git merge nombredelaramadondetrabajo --> Une las dos ramas por ejemplo estando en master 		
+					ingreso el comando marge uno la rama en la que trabajo	
+					al master
+
