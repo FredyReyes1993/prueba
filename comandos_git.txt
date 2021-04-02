@@ -22,5 +22,6 @@ $ git remote -v --> muestra las conexiones remotas
 
 $git push --> enviar o empuja lo que tengo la ruta origen a la rama master, hacia la nube
 
+$ git pull origen master--allow-unrelated-histories --> se comporta igual en el remoto como en el local
 
 
