@@ -3,4 +3,4 @@ $ git add nombredeltexto.txt -->etiquetar el archivo para que el
 							    repositorio sepa que esta
 
 $ git commit -m "comentarios" --> envia los cambios a la bd del repositorio
-								  para que se guarde de forma permanente
+			          para que se guarde de forma permanente
