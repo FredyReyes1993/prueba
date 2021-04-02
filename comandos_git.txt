@@ -1,6 +1,12 @@
 $ git init --> inicio de repositorio como una bd
 $ git add nombredeltexto.txt -->etiquetar el archivo para que el 
-							    repositorio sepa que esta
+			        repositorio sepa que esta
 
 $ git commit -m "comentarios" --> envia los cambios a la bd del repositorio
 			          para que se guarde de forma permanente
+
+$git branch nombredelarama --> crea una rama
+
+$git branch --list --> muestra las ramas creadas
+
+$git checkout nombredelarama --> ingresamos a la rama creada
